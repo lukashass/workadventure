@@ -107,7 +107,7 @@
         pointer-events: auto;
         background-color: #333333;
         color: whitesmoke;
-        z-index: 300;
+        z-index: 650;
         position: absolute;
         height: 70vh;
         width: 50vw;

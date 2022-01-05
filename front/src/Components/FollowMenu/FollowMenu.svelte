@@ -106,7 +106,7 @@
         right: 0;
         margin-left: auto;
         margin-right: auto;
-        z-index: 150;
+        z-index: 400;
     }
 
     div.interact-menu {

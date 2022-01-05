@@ -36,6 +36,7 @@
         background-color: black;
         border-radius: 30px 0 0 30px;
         display: inline-flex;
+        z-index: 750;
 
         img {
             border-radius: 50%;

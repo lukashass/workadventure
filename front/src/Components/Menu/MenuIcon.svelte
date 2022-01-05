@@ -73,6 +73,7 @@
 
 <style lang="scss">
     @import "../../../style/breakpoints.scss";
+
     .menuIcon {
         display: flex;
         flex-direction: column;
@@ -88,9 +89,11 @@
             margin: 5%;
         }
     }
+
     .menuIcon img:hover {
         transform: scale(1.2);
     }
+
     @include media-breakpoint-up(sm) {
         .menuIcon {
             margin-top: 10%;
